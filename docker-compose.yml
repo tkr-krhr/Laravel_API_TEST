@@ -1,6 +1,3 @@
-# docker-composeのバージョン
-version: "3" 
-
 # コンテナ定義
 services:
   # webサーバー
